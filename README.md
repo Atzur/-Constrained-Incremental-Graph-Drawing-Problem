@@ -16,20 +16,20 @@ well-known black-box solver in combinatorial optimization.
 
 - DOI: https://doi.org/10.1016/j.ejor.2018.10.017
 - Please, cite us as:
+   
+   A. Napoletano, A. Martínez-Gavara, P. Festa, T. Pastore, and R. Martí, Heuristics for the constrained incremental graph drawing problem, Eur. J. Oper. Res. 274 (2019), pp. 710–729. 
+   
+   Bibtex:
 
-A. Napoletano, A. Martínez-Gavara, P. Festa, T. Pastore, and R. Martí, Heuristics for the constrained incremental graph drawing problem, Eur. J. Oper. Res. 274 (2019), pp. 710–729. 
-
-Bibtex:
-
-@article{NAPOLETANO2019710,
-title = {Heuristics for the Constrained Incremental Graph Drawing Problem},
-journal = {European Journal of Operational Research},
-volume = {274},
-number = {2},
-pages = {710-729},
-year = {2019},
-issn = {0377-2217},
-doi = {https://doi.org/10.1016/j.ejor.2018.10.017},
-author = {Antonio Napoletano and Anna Martínez-Gavara and Paola Festa and Tommaso Pastore and Rafael Martí},
-keywords = {Heuristics, Metaheuristics, Combinatorial optimization, Graph drawing},
-}
+    @article{NAPOLETANO2019710,
+      title = {Heuristics for the Constrained Incremental Graph Drawing Problem},
+      journal = {European Journal of Operational Research},
+      volume = {274},
+      number = {2},
+      pages = {710-729},
+      year = {2019},
+      issn = {0377-2217},
+      doi = {https://doi.org/10.1016/j.ejor.2018.10.017},
+      author = {Antonio Napoletano and Anna Martínez-Gavara and Paola Festa and Tommaso Pastore and Rafael Martí},
+      keywords = {Heuristics, Metaheuristics, Combinatorial optimization, Graph drawing},
+      }
