@@ -13,3 +13,23 @@ to obtain high-quality solutions to this optimization problem in the short compu
 times required for graph drawing applications. We also propose a mathematical programming formulation and obtain the optimal solution for small and medium instances. Our
 extensive experimentation shows the merit of our proposal with respect to both optimal solutions obtained with CPLEX and heuristic solutions obtained with LocalSolver, a
 well-known black-box solver in combinatorial optimization.
+
+- DOI: https://doi.org/10.1016/j.ejor.2018.10.017
+- Please, cite us as:
+
+A. Napoletano, A. Martínez-Gavara, P. Festa, T. Pastore, and R. Martí, Heuristics for the constrained incremental graph drawing problem, Eur. J. Oper. Res. 274 (2019), pp. 710–729. 
+
+Bibtex:
+
+@article{NAPOLETANO2019710,
+title = {Heuristics for the Constrained Incremental Graph Drawing Problem},
+journal = {European Journal of Operational Research},
+volume = {274},
+number = {2},
+pages = {710-729},
+year = {2019},
+issn = {0377-2217},
+doi = {https://doi.org/10.1016/j.ejor.2018.10.017},
+author = {Antonio Napoletano and Anna Martínez-Gavara and Paola Festa and Tommaso Pastore and Rafael Martí},
+keywords = {Heuristics, Metaheuristics, Combinatorial optimization, Graph drawing},
+}
